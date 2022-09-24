@@ -9,7 +9,7 @@ This web based app aims to analyse WhatsApp chat between two indivdual or a grou
   
   
   
-    - A text file which contains a stop word in english and hindi. This will help to filter out the stop word in chat analysis
+    - A text file which contains stopwords in english and hindi. This will help to filter out the stop word in chat analysis
    
    
    
